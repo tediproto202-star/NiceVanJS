@@ -1,3 +1,4 @@
 # NiceVanJS
 ## An ineteresting lightweight vanilla JS
-# Intuitive for C programmers
+
+# Intuitive to vanilla JS purists
